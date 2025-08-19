@@ -26,7 +26,6 @@ End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/
 │   ├── __init__.py
 │   └── configuration.py
 |
-├── model/                              # Model-related files (trained models, artifacts)
 ├── research/                           # Jupyter Notebooks for analysis and experimentation
 │   ├── 01_data_ingestion.ipynb
 │   ├── 02_prepare_base_model.ipynb
